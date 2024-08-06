@@ -233,3 +233,5 @@ destinations:
     override: "actions-usermaven"
   - original: "survicate-actions"
     override: "actions-survicate"
+  - original: "angler-ai"
+    override: "actions-angler-ai"
